@@ -1,0 +1,10 @@
+{
+  "name": "Pomodoro / Focus blocker Extension",
+  "description": "An extension that blocks the sites that u want and also have a pomodoro timer ",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
